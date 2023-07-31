@@ -1,0 +1,10 @@
+Welcome to the game of battleship!!
+Our greatest champions are:
+
+
+SCORE	NAME		MESSAGE
+7	  JOB - Andrew Meehan is GOD
+12	Travis Bickle - You talkin' to me?
+15	Harry Callahan - Go ahead, make my day.	
+19	Vito Corleone - I'm gonna make him an offer he can't refuse
+21	The Terminator - I'll be back
